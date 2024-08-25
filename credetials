@@ -5,3 +5,5 @@ company: none
 purpose : other
 
 key1 : a81d450e6929c596b32bb77c8556ecc3
+
+endpoint : https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=a81d450e6929c596b32bb77c8556ecc3
